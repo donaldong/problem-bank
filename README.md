@@ -62,7 +62,7 @@ Problem Bank
          1. Kruskal's Algo.
 1. **Problem Solving Paradigms**
    1. Divide and Conquer
-   2. Greedy Algorithms
+   2. [Greedy Algorithms](https://github.com/progteam/problem-bank/blob/master/greedy.md)
    3. Dynamic Programming
       1. Tabulation
       2. memoization
