@@ -10,3 +10,4 @@ algorithms.
 - [Financial Planning](https://open.kattis.com/problems/financialplanning)
 - [Saving the Universe](https://open.kattis.com/problems/savinguniverse)
 - [Tomography](https://open.kattis.com/problems/tomography)
+- [Zig Zag Nametag](https://open.kattis.com/problems/zigzag)
